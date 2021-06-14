@@ -46,4 +46,4 @@
    >
    > ale pokazanie po kolei to już w LabView !!!!
    >
-   > 
+   > ad
