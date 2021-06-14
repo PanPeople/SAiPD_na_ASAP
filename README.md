@@ -17,13 +17,13 @@
    > no i tak to docelowo wyszło
    
 2.  co w sumie mierzyliśmy
-
    > tak wyglądal mierzony obwód
    >
-   > wykrzystano biltlioteki implematacji visa i emulajci obwodów elektonicznych
+   > wykrzystano biltlioteki implematacji visa
+   >  i emulajci obwodów elektonicznych
    >
    > tłumaczyć step by step to co było mierzone
-
+   
 3. wymagane funkcje (bajera w sumie i lanie wody xD )
 
    > po kolei co trzeba był zrobić i powiedzieć że potem bedzie dokładniej wytłumaczone
