@@ -45,5 +45,27 @@
 	> tylko pokazać że to takie ładne długie
 	>
 	> ale pokazanie po kolei to już w LabView !!!!
-	>
-	> ad
+	
+6. opis main VI
+
+   > jak to ta maszyna stanów działa,
+   >
+   > gdzie co sie robi (to disabled i wyszazenie to tak po macoszemu)
+   >
+   > **ważne** o tym gównie na obrazu mówi jedna osoba, a druga o wszystkim pozostałym
+
+7. jak było pracowane (slajd 11 i 12 w sumie)
+
+   > o githubie bajera (że jest i że polecam xD ) <- **Mikołaj**
+   >
+   > o trello, można zrobić smoth seegway do tym że trello w pyte i że tak, tak były w nim pracowane <-  przez drugą osobę gadane albo **Mikołaj ** dalej
+
+8. to na co wszyscy czekali xDDDD
+
+   > jak ten ulep działa <3
+
+9. zbijanie pjony z prowadzącym i otrzymanie 5.5
+
+   > wspólne świetowanie, ognisko i cos tam xD
+
+   
