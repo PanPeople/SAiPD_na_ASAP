@@ -23,10 +23,10 @@
 	> i emulajci obwodów elektonicznych by mgr. Bartczak
 	>
 	> tłumaczyć step by step to co było mierzone
-   >
-   > komutator
-   >
-   > "W mierzonym obwodze żyliście zaisalcza stałonapieciowe go -30 + 30 , komutator, orzelaczający i multimetr napiecia na zenerze i dioddzie, użyto visa ", 
+    >
+    > komutator
+    >
+    > "W mierzonym obwodze żyliście zaisalcza stałonapieciowe go -30 + 30 , komutator, orzelaczający i multimetr napiecia na zenerze i dioddzie, użyto visa ", 
    
 3. wymagane funkcje (bajera w sumie i lanie wody xD )
 
