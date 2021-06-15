@@ -6,7 +6,7 @@
 
 ## Lista tematów do powiedzenia:
 
-1. wstęp
+1. wstęp **<- Tomek**
 
 	>  dzień dobry
 	>
@@ -16,13 +16,17 @@
 	>
 	> no i tak to docelowo wyszło
    
-2.  co w sumie mierzyliśmy
+2.  co w sumie mierzyliśmy **<- **
 	> tak wyglądal mierzony obwód
 	>
 	> wykrzystano biltlioteki implematacji visa
-	> i emulajci obwodów elektonicznych
+	> i emulajci obwodów elektonicznych by mgr. Bartczak
 	>
 	> tłumaczyć step by step to co było mierzone
+   >
+   > komutator
+   >
+   > "W mierzonym obwodze żyliście zaisalcza stałonapieciowe go -30 + 30 , komutator, orzelaczający i multimetr napiecia na zenerze i dioddzie, użyto visa ", 
    
 3. wymagane funkcje (bajera w sumie i lanie wody xD )
 
@@ -69,4 +73,17 @@
    > wspólne świetowanie, ognisko i cos tam xD
 
    
+
+## rozpisak slajdów
+
+> Tomek:
+>
+> **1,2,9**
+>
+> Mikołaj:
+> **3,4,6-8**
+>
+> Michał:
+>
+> **5.10,11,12**
 
